@@ -22,14 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
-</div>
-
----
-
 ### :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-nsk&layout=compact&theme=vision-friendly-dark&langs_count=8&exclude_repo=jupyter_and_arcgis)](https://github.com/anuraghazra/github-readme-stats)
 
