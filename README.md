@@ -25,4 +25,3 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-nsk&layout=compact&theme=vision-friendly-dark&langs_count=6&exclude_repo=jupyter_and_arcgis)](https://github.com/anuraghazra/github-readme-stats)
 
-
