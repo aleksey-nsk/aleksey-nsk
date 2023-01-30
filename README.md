@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Image -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l41YbtHU0w3wjuN56/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l41YbtHU0w3wjuN56/giphy.gif" width="200"/>
 </div>
 
 <!-- Views counter -->
